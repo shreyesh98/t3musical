@@ -1,0 +1,27 @@
+html {
+    overflow-x: hidden;
+  }
+  
+  /* navbar */
+  nav {
+    background-color: #030303;
+  }
+  
+  nav img {
+    width: 60px;
+    height: 60px;
+  }
+  
+  button.navbar-toggler {
+    background-color: #ddd;
+    border-radius: 2rem;
+    padding: 0.65rem;
+    font-size: 0.95rem;
+  }
+  
+  .collapse.navbar-collapse {
+    font-family: "Varela Round", sans-serif;
+    justify-content: end;
+    font-size: 20px;
+    font-weight: 700;
+  }
